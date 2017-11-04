@@ -38,7 +38,7 @@ _Information Science - Bachelor of Engineering (B.E)_
 
 Information science. Distributed development, software architecture and modeling, database design and development, rich web applications.
 
-##Training and achievements
+## Training and achievements
 *	Achieved a certification with distinction from ‘UNIVERSITY OF NEW MEXICO’ in Web Application Architectures (COURSERA).	
 *	Received 3 awards of excellence (NAJM) for various projects implements at Emirates.
 *	Received a trophy from “Cellpoint mobile” for the implementation of mobile payment integration.  
