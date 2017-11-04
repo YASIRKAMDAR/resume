@@ -53,7 +53,7 @@ _May 2015 - Present (Dubai, United Arab Emirates)_
 
 _**Software development Lead**_
 Designed and implemented frontend applications and managed project team members
-*	Lead front-end developer for Emirates Airlines. build internal applications using React and Redux stack, Also re-factored and managed older jQuery legacy code.
+*	Lead front-end developer for Emirates Airlines. Built internal applications using React and Redux stack, Also re-factored and managed older jQuery legacy code.
 *	Wrote proposal for and led the effort to redesign the eCommerce application.
 *	Set benchmark NFRs for the web application.
 *	Implemented code analysis/Automated review tool (CodeItRight) to improve the code quality of the application.
